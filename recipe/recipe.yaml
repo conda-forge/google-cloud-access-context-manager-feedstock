@@ -1,5 +1,5 @@
 context:
-  version: "0.6.1"
+  version: "0.6.2"
 
 package:
   name: google-cloud-access-context-manager
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/g/google-cloud-access-context-manager/google_cloud_access_context_manager-${{ version }}.tar.gz
-  sha256: 4d998e4a81c424f51f6c5c6aacb27d7806116d30b556c708ac0a89c37fe51ad8
+  sha256: d579d53c9ee69735fc49ff50784eb1bd50041c9dba06bbbf412de9abf04dea01
 
 build:
   number: 0
